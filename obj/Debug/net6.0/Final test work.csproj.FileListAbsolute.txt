@@ -1,0 +1,15 @@
+E:\GeekBrains\Training C#\Final test work\bin\Debug\net6.0\Final test work.exe
+E:\GeekBrains\Training C#\Final test work\bin\Debug\net6.0\Final test work.deps.json
+E:\GeekBrains\Training C#\Final test work\bin\Debug\net6.0\Final test work.runtimeconfig.json
+E:\GeekBrains\Training C#\Final test work\bin\Debug\net6.0\Final test work.dll
+E:\GeekBrains\Training C#\Final test work\bin\Debug\net6.0\ref\Final test work.dll
+E:\GeekBrains\Training C#\Final test work\bin\Debug\net6.0\Final test work.pdb
+E:\GeekBrains\Training C#\Final test work\obj\Debug\net6.0\Final test work.csproj.AssemblyReference.cache
+E:\GeekBrains\Training C#\Final test work\obj\Debug\net6.0\Final test work.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\Training C#\Final test work\obj\Debug\net6.0\Final test work.AssemblyInfoInputs.cache
+E:\GeekBrains\Training C#\Final test work\obj\Debug\net6.0\Final test work.AssemblyInfo.cs
+E:\GeekBrains\Training C#\Final test work\obj\Debug\net6.0\Final test work.csproj.CoreCompileInputs.cache
+E:\GeekBrains\Training C#\Final test work\obj\Debug\net6.0\Final test work.dll
+E:\GeekBrains\Training C#\Final test work\obj\Debug\net6.0\ref\Final test work.dll
+E:\GeekBrains\Training C#\Final test work\obj\Debug\net6.0\Final test work.pdb
+E:\GeekBrains\Training C#\Final test work\obj\Debug\net6.0\Final test work.genruntimeconfig.cache
